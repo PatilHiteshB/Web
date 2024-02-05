@@ -1,1 +1,1 @@
-# Web
+A  repository to store the practice problems and assignments of the HTML/CSS/JS code.
