@@ -1,0 +1,28 @@
+div {
+    color: white;
+    background-color: rgb(30, 29, 29);
+    padding: 5px;
+}
+
+span {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+button {
+    color: white;
+    background-color: orange;
+}
+
+#navbar {
+    border: solid 1px red;
+}
+
+#header {
+    padding: 0;
+    margin: 0;
+}
+#content {
+    height: 100vh;
+    background-color: rgb(30, 29, 29, 0.4);
+}
