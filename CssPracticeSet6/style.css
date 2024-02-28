@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: azure;
+    line-height: 5em;
+}
+
+li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.outer {
+    width: 400px;
+    height: 400px;
+    background-color: rebeccapurple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inner {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
